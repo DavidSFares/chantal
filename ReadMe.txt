@@ -2,25 +2,25 @@ Responsive HTML5 website template for developers
 
 Theme name:
 =======================================================================
-Developer
+Chantal Sethi Resume
 
 Theme version:
 =======================================================================
-v1.4
+v1.0
 
 Release Date:
 =======================================================================
-05 May 2015
+02 Nov 2015
 
 Author: 
 =======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Chantal Sethi
 
 Contact:
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Web: http://chatnalsethi.com/
+Email: chantal.sethi@gmail.com
+Twitter: @chantalsethi
 
 License: 
 =======================================================================
